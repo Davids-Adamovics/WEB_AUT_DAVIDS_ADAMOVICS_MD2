@@ -1,1 +1,12 @@
-# WEB_AUT_DAVIDS_ADAMOVICS_MD2
+# vea-2024-web-aut-juice
+### Requirements
+node 20
+### Installation
+```
+npm ci
+```
+
+### Execution
+```
+npx cypress open
+```
